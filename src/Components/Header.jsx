@@ -7,7 +7,7 @@ export function Header(){
         <header className={styles.header}>
             <img src={igniteLogo} alt='logotipo'></img>
             <strong>
-                Ignite Feed
+                Crimes Não Reportados
             </strong>
         </header>
     );
